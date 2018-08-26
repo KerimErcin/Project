@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slider", "Slider\Slider.csproj", "{454E5C84-1F3A-42A0-9D3A-815F5DB3A96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowLoginButton", "ShowLoginButton\ShowLoginButton.csproj", "{556271F1-9410-4458-ADC8-1028CBEF9008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{454E5C84-1F3A-42A0-9D3A-815F5DB3A96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{454E5C84-1F3A-42A0-9D3A-815F5DB3A96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{454E5C84-1F3A-42A0-9D3A-815F5DB3A96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556271F1-9410-4458-ADC8-1028CBEF9008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556271F1-9410-4458-ADC8-1028CBEF9008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556271F1-9410-4458-ADC8-1028CBEF9008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556271F1-9410-4458-ADC8-1028CBEF9008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
